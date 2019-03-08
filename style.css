@@ -6,6 +6,34 @@ button{
     color:pink;
 }
 h1{
-    color:#AA8439;
+    color:#AA1000;
     background-color:red;
+}
+nav{
+    text-transform:uppercase;
+    color:pink;
+    font-family:serif;
+}
+body{
+    font-family:serif;
+}
+nav:hover {
+    text-transform:lowercase;
+    font-family:arial;
+}
+h1:hover{
+    font-family:serif;
+    background-color:yellow;
+}
+h2:hover{
+    font-family:serif;
+    background-color:yellow;
+}
+h3:hover{
+    font-family:serif;
+    background-color:yellow;
+}
+h4:hover{
+    font-family:serif;
+    background-color:yellow;
 }
